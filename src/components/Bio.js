@@ -18,7 +18,7 @@ class Bio extends React.Component {
       >
         <img
           src={profilePic}
-          alt={`Dan Abramov`}
+          alt={`Abhijit Chanda`}
           style={{
             marginRight: rhythm(1 / 2),
             marginBottom: 0,
@@ -27,9 +27,9 @@ class Bio extends React.Component {
           }}
         />
         <p style={{ maxWidth: 310 }}>
-          Personal blog by <a href="https://mobile.twitter.com/dan_abramov">Dan Abramov</a>.
+          Personal blog by <a href="https://mobile.twitter.com/abchanda">Abhijit Chanda</a>.
           {' '}
-          I&nbsp;explain with words and code.
+          I write down some of the nice things I have learnt as I WILL forget
         </p>
       </div>
     )
