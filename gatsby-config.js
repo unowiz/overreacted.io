@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: 'Overreacted',
-    author: 'Dan Abramov',
-    description: 'Personal blog by Dan Abramov. I explain with words and code.',
-    siteUrl: 'https://overreacted.io',
+    title: 'SharedPoint',
+    author: 'Abhijit Chanda',
+    description: 'Personal blog by Abhijit Chanda. I need to talk and write about the nice things I have learnt else I WILL forget',
+    siteUrl: 'https://sharedpoint.netlify.com/',
     social: {
-      twitter: '@dan_abramov',
+      twitter: '@abchanda',
     },
   },
   pathPrefix: '/',
@@ -57,8 +57,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Overreacted`,
-        short_name: `Overreacted`,
+        name: `SharedPoint`,
+        short_name: `SharedPoint`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#ffa7c4`,
