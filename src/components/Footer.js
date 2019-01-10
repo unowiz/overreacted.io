@@ -19,24 +19,30 @@ class Footer extends React.Component {
           >rss</a>
         </div>
         <a
-          href="https://mobile.twitter.com/dan_abramov"
+          href="https://mobile.twitter.com/abchanda"
           target="_blank"
           rel="noopener noreferrer"
         >
           twitter
         </a> &bull;{' '}
         <a
-          href="https://github.com/gaearon"
+          href="https://github.com/unowiz"
           target="_blank"
           rel="noopener noreferrer"
         >
           github
         </a> &bull;{' '}
         <a
-          href="https://stackoverflow.com/users/458193/dan-abramov"
+          href="https://stackoverflow.com/users/289943/abhijit"
           target="_blank"
           rel="noopener noreferrer">
           stack overflow
+        </a> &bull;{' '}
+        <a
+          href="https://www.linkedin.com/in/abhijitchanda/"
+          target="_blank"
+          rel="noopener noreferrer">
+          LinkedIn
         </a>
       </footer>
     )
