@@ -1,11 +1,11 @@
 {
-  "name": "overreacted",
+  "name": "sharepoint",
   "private": true,
-  "description": "Overreacted",
+  "description": "SharedPoint",
   "version": "1.0.0",
-  "author": "Dan Abramov <dan.abramov@me.com>",
+  "author": "Abhijit Chanda",
   "bugs": {
-    "url": "https://github.com/gaearon/overreacted.io/issues"
+    "url": "https://github.com/unowiz/sharedpoint/issues"
   },
   "dependencies": {
     "gatsby": "^2.0.76",
